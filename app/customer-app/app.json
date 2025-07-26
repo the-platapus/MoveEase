@@ -1,8 +1,6 @@
 {
   "expo": {
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "extra": {
       "router": {
         "origin": "app"
